@@ -1,0 +1,4 @@
+1,5 Star,5,250
+2,Cadbury,10,100
+3,Chips,5,200
+4,Sweets,7,146
